@@ -1,0 +1,1 @@
+# Bare-PCB-defect-detection-using-OpenCV
