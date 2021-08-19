@@ -13,4 +13,4 @@ Example of bare PCB having missing hole defect:
 The Jupyter notebook has the code for the step-by-step PCB defect detection process using image subtraction. The steps, which apply to both template and test images, involve converting the original image to grayscale, applying Gaussian blur to blur the image and then using adaptive thresholding to convert the image to a binary image. Once both the images are binary, the test image is subtracted from template to get the resultant image (difference image) which shows the defects. Contour detection is then used to get the number of defects in the final image.
 <br> The final result image looks like this:
 
-![Resultant binary image](https://user-images.githubusercontent.com/59477814/130058767-eaa87e94-f658-4914-bcb7-782d21cc78bc.png)
+![Resultant binary image](https://user-images.githubusercontent.com/59477814/130059689-0ed9bc9d-9b32-4961-bb89-cca6d2984a2d.png)
