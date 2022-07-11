@@ -3,7 +3,7 @@
 This project implements the detection of bare PCB defects such as missing hole, mouse bite and open circuit, using the OpenCV library in Python. 
 <br> The image processing technique called Image Subtraction is used for the purpose of defect detection.
 
-The Bare-PCB-images-dataset folder contains the dataset used for this project, and its details in a README file. It contains RGB images of five types of bare PCBs. It includes both the non-defective and defective PCB images.
+The Bare-PCB-images-dataset folder contains the dataset used for this project, and its details in a README file inside the folders of template and defective PCB images. It contains RGB images of five types of bare PCBs. 
 
 An example of a bare PCB having missing hole defect:
 
