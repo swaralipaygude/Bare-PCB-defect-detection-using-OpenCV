@@ -5,7 +5,7 @@ This project implements the detection of bare PCB defects such as missing hole, 
 
 The Bare-PCB-images-dataset folder contains the dataset used for this project, and its details in a README file. It contains RGB images of five types of bare PCBs. It includes both the non-defective and defective PCB images.
 
-Example of bare PCB having missing hole defect:
+An example of a bare PCB having missing hole defect:
 
 ![Annotated PCB image with missing hole defect](https://user-images.githubusercontent.com/59477814/130058005-02531758-5d4f-47f9-bd61-749155690dab.png)
 
