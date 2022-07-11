@@ -14,6 +14,6 @@ The Jupyter notebook has the code for the step-by-step PCB defect detection proc
 <br> Once both the images are binary, the test image is subtracted from template to get the resultant image (difference image) which shows the defects. 
 <br> Contour detection is then used to get the number of defects in the final image.
 
-The final result image looks like this:
+An example of a final result image showing defects looks like this:
 
 ![Resultant binary image](https://user-images.githubusercontent.com/59477814/130059689-0ed9bc9d-9b32-4961-bb89-cca6d2984a2d.png)
